@@ -2,5 +2,5 @@ teste de add git
 
 primeira atualização git
 segundo teste
-erro teste
+erro teste.
 
